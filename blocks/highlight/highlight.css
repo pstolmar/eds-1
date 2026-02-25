@@ -1,0 +1,22 @@
+/* blocks/highlight/highlight.css */
+
+.block.highlight {
+  border-left: 4px solid #0265dc;
+  background: #f5f9ff;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+.highlight-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #0265dc;
+  margin-bottom: 0.25rem;
+}
+
+.highlight-inner p {
+  margin: 0.25rem 0;
+}
+
